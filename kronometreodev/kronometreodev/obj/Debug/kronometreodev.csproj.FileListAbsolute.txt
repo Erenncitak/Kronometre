@@ -1,0 +1,11 @@
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\bin\Debug\kronometreodev.exe.config
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\bin\Debug\kronometreodev.exe
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\bin\Debug\kronometreodev.pdb
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.csproj.AssemblyReference.cache
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.Form1.resources
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.Properties.Resources.resources
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.csproj.GenerateResource.cache
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.csproj.CoreCompileInputs.cache
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.exe
+C:\Users\maminin pc\source\repos\kronometreodev\kronometreodev\obj\Debug\kronometreodev.pdb
